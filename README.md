@@ -1,38 +1,43 @@
 # lulu cake boutique
 
-proposed redesign for <everythinglulu.com>
+www.everythinglulu.com redesign
+
+a collaboration between [wommy](github.com/wommy) and [jonathantneal](github.com/jonathantneal)
 
 
 ## description
 
-there was a post in the <static-dev.slack.com> job board about upgrading <everythinglulu.com> to use a headless cms.
+a post in the https://static-dev.slack.com job board detailed upgrading www.everythinglulu.com to a headless cms
 
-i posted that i would be willing to collaborate with anyone and jonneal responded.
-
-this is that project proposal.
+i posted a willingness to collaborate and jonneal responded: this is that project
 
 
 ## roadmap
 
-1. alpha - design proposal
+1. design proposal
 
-	- [ ] abstract: loose wireframes from existing site
-	- [ ] base content
-	- [ ] abstracting out data
-	- [ ] build tool considerations, technologies used
-	- [ ] choosing and integrating headless cms
+1. ???
 
-2. beta - testing
+1. ???
 
-3. production - final
+2. testing
+
+3. live
 
 
-## authors
-
-a collaboration between [wommy](github.com/wommy) and [jonneal](github.com/jonathantneal)
+### done
 
 
-## todo
+### doing
 
-- license
+- [x] abstract: loose wireframes from existing site
 
+
+### todo
+
+- [ ] license
+
+- [ ] base content
+- [ ] abstracting out data
+- [ ] build tool considerations, technologies used
+- [ ] choosing and integrating headless cms

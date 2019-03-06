@@ -1,0 +1,15 @@
+=== custom
+
+sub_nav[8: fondant wedding, buttercream wedding, celebrations, grooms, bride-baby, for boys, for girls, religious]
+	{ onClick: change sub_content}
+
+sub_content 
+	{ indexOf: [category] }
+		img
+			{ onClick: launch _modal}
+
+=== improvements
+
+[ ] componentize
+  [ ] sub_nav
+  [ ] sub_content

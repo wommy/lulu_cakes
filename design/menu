@@ -1,0 +1,15 @@
+=== menu
+
+.hero
+
+section - menu
+	img + title + p
+	link#special_menu_holiday_2018
+
+section - .knife_hr + ( 2 column )
+	category[6: chocolate lovers, classics, fruity favorites, kid friendly, off the beaten path, signature favorites]
+		title + description
+	.lulu_hr
+
+=== improvements
+[ ] column layout

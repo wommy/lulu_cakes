@@ -1,0 +1,7 @@
+=== _modal
+
+dialog + X{ onClick: close }
+	.title + img
+	{ partial: _form }
+
+=== improvements

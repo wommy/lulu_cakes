@@ -1,0 +1,12 @@
+=== index
+
+section
+	carousel [5: ny_mag, knot_mag, nyt_1, wc_mag, nyt_2]
+		hero + reviews
+	[3: delivery, tasting kits, ordering]
+		img, title, subtitle
+section - our specalities
+	[3: the petite tiers collection, cake tasting, the simplicity collection]
+		img, title, link
+
+=== improvements

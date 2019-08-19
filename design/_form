@@ -1,0 +1,12 @@
+=== _form
+
+text_input [name, email, phone]
+select_input [party_type]
+text_input [serving_number, event_location]
+date_input [event_date]
+checkbox_input [delivery]
+select_input [how_did_you_hear_about_us]
+submit_button
+
+=== improvements
+- standardize this, complete makeover

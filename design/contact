@@ -1,0 +1,23 @@
+=== contact
+
+hero + contact + hr
+
+section
+	allow us + p
+	store hours + p
+	phone
+	address
+	email
+
+section
+	directions + p
+	link#google_maps
+	{ partial: _widget_googleMap }
+
+section
+	manhattan salon, p, phone, link#schedule
+	wholesale, p, email
+	elsewhere, social
+
+=== improvements
+ - plug variables

@@ -1,0 +1,11 @@
+=== standard
+
+sub_nav[5: standard cake decorations, petite tiers, simply baby & bridal, simply celebrations, simply religious]
+	{ onClick: change sub_content }
+
+sub_content
+	img + title
+		{ onClick: launch _modal }
+
+=== improvements
+[ ] see custom

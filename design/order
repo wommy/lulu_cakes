@@ -1,0 +1,17 @@
+=== order
+
+.hero
+
+section - order
+	.title, p, link#contact
+	img
+	[4: standard cake, the simplicity collection, petite tiers collection, tiered and shaped cakes]
+		img, .title, p, link
+	.lulu_hr
+
+section - schedule a tasting
+	[2: sample and swoon, tastings to go]
+		.title + .description
+	{ partial: _form }
+
+=== improvements

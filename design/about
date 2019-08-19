@@ -1,0 +1,20 @@
+=== about
+
+.hero
+
+section - about lulu
+	p[7]
+	call_to_action(broken)
+	+ right_float/aside w/ quote
+	.lulu_hr
+
+section - what people are saying
+	carousel [12]
+		img + quote attributed
+	lulu_hr
+
+section - meet the makers
+	subtitle
+	indexOf[maker_profiles] + (:hover name + title)
+
+=== improvements

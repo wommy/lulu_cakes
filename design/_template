@@ -1,0 +1,29 @@
+=== _template
+
+header nav
+	about
+	menu
+	standard
+	custom
+	home
+		img
+	contact
+	blog
+	order
+
+main
+	{ extends: $content }
+
+footer - bg_img + img_overlay
+	nav
+	social
+	email
+
+=== improvements
+- footer 
+	[ ] link[address, phone1, phone2]
+- header nav
+	[ ] pull nav_link_list from data
+	[ ] fix home img centering
+		_? flex order
+[ ] $content _? best way to do this
